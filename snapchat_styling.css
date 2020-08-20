@@ -1,0 +1,131 @@
+.nav_bar{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+.nav_bar_content{
+    font-size: small;
+    margin: 10px 10px 0px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+.nav_bar_content:hover{
+    border-bottom: 3px solid grey;
+    color: black;
+}
+.snap_logo{
+    padding-left: 120px;
+    padding-right: 30px;
+    height: 30px;
+    padding-bottom: 1px;
+    margin-bottom: 5px;
+}
+.header_css{
+    width: 100%;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+.header_css h1{
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.logo_css{
+    display: flex;
+    flex-direction: row;
+}
+.Lucca{
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    
+}
+.and{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.img{
+    width: 400px;
+    height: 300px;
+}
+.fig_name{
+    display: flex;
+    flex-direction: row;
+}
+.logo_name{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.watch_now{
+    margin-bottom: 20px;
+    margin-top: 30px;
+    padding: 10px 35px;
+    border-radius: 20px;
+    font-weight: 500;
+    border-color: white;
+}
+.section_list{
+    list-style: none;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 15px;
+
+}
+.section_css{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 100px;
+}
+.section_list_top{
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.section_list1{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: small;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+.design_down{
+    padding-left: 120px;
+    padding-right: 40px;
+}
+.section_list_hover{
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    color: grey;
+    text-decoration: none;
+    font-size: 15px;
+}
+.section_list_hover:hover{
+text-decoration: none;
+color: black;
+}
+.language{
+    color: grey;
+    width: 200px;
+    margin-top: 10px;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+.friends{
+    word-spacing: normal;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+.img_name{
+    width: 200px;
+}
